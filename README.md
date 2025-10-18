@@ -2,6 +2,8 @@
 
 This project implements various N-gram language models for text generation and perplexity evaluation, developed as part of MSML 641 coursework.
 
+**Repository**: https://github.com/Sampreeth-08/ngram-language-model
+
 ## Overview
 
 The project implements four different N-gram language modeling approaches:
